@@ -1,16 +1,28 @@
-# Premiere Night
+## 🎬 Premiere Night
 
-A movie discovery app I built to learn bare React Native (no Expo). Pick your next movie night watch!
+A simple movie discovery app I built while learning **bare React Native** (no Expo).  
+Browse popular movies, check details, and add films to your Watchlist.
 
+The app uses the TMDb API along with React Navigation, Zustand, and AsyncStorage.
 
+---
 
+## 🚀 Getting Started
 
+### Requirements
 - Node 18+
-- Xcode (iOS) / Android Studio (Android)
+- React Native CLI
+- Xcode (iOS)
+- Android Studio (Android)
+- TMDb API key
 
-steps for run project
+---
 
+## 🔧 Installation
+
+```sh
 npm install
+
 
 -for iOS
 cd ios && pod install && cd ..

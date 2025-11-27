@@ -1,6 +1,6 @@
 ## 🎬 Premiere Night
 
-A simple movie discovery app I built while learning **bare React Native** (no Expo).  
+A simple movie discovery app.  
 Browse popular movies, check details, and add films to your Watchlist.
 
 The app uses the TMDb API along with React Navigation, Zustand, and AsyncStorage.

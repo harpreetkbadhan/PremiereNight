@@ -34,18 +34,13 @@ You can add a GIF preview of the app by placing a file (e.g.,
 
 ## Adding Images / Screenshots
 
-Place your screenshots inside the `ScreenShots` folder and reference them like:
+<p float="left">
+  <img src="ScreenShots/s1.png" width="200" />
+  <img src="ScreenShots/s2.png" width="200" />
+  <img src="ScreenShots/s3.png" width="200" />
+  <img src="ScreenShots/s4.png" width="200" />
+</p>
 
-![Screen 1](ScreenShots/s1.png)
-![Screen 2](ScreenShots/s2.png)
-![Screen 3](ScreenShots/s3.png)
-![Screen 4](ScreenShots/s4.png)
-
-```
-<img src="ScreenShots/s1.png" width="300"/>
-<img src="ScreenShots/s2.png" width="300"/>
-<img src="ScreenShots/s3.png" width="300"/>
-<img src="ScreenShots/s4.png" width="300"/>
 
 ------------------------------------------------------------------------
 

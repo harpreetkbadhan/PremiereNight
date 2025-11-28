@@ -21,17 +21,6 @@ AsyncStorage.
 
 ------------------------------------------------------------------------
 
-## Demo GIF
-
-You can add a GIF preview of the app by placing a file (e.g.,
-`demo.gif`) inside the project and referencing it:
-
-``` md
-![App Demo](./demo.gif)
-```
-
-------------------------------------------------------------------------
-
 
 ## Installation
 
@@ -91,6 +80,17 @@ npm start
 -   React Navigation for clean separation between screens.
 
 ------------------------------------------------------------------------
+## Demo GIF
+
+You can add a GIF preview of the app by placing a file (e.g.,
+`demo.gif`) inside the project and referencing it:
+
+``` md
+![App Demo](./Premiere.gif)
+```
+
+------------------------------------------------------------------------
+
 
 ##  Screenshots
 

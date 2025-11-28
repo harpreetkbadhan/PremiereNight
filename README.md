@@ -38,8 +38,10 @@ Place your screenshots inside a folder named **ScreenShots** and
 reference them like:
 
 ``` md
-![Home Screen](./ScreenShots/s1.png)
-![Detail Screen](./ScreenShots/s2.png)
+![Screen 1](./ScreenShots/s1.png)
+![Screen 2](./ScreenShots/s2.png)
+![Screen 3](./ScreenShots/s3.png)
+![Screen 4](./ScreenShots/s4.png)
 ```
 
 ------------------------------------------------------------------------

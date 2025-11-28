@@ -32,17 +32,6 @@ You can add a GIF preview of the app by placing a file (e.g.,
 
 ------------------------------------------------------------------------
 
-## Adding Images / Screenshots
-
-<p float="left">
-  <img src="ScreenShots/s1.png" width="200" />
-  <img src="ScreenShots/s2.png" width="200" />
-  <img src="ScreenShots/s3.png" width="200" />
-  <img src="ScreenShots/s4.png" width="200" />
-</p>
-
-
-------------------------------------------------------------------------
 
 ## Installation
 
@@ -100,3 +89,17 @@ npm start
 -   AsyncStorage used for persistent local watchlist storage.
 -   TMDb API provides movie data with simple configuration.
 -   React Navigation for clean separation between screens.
+
+------------------------------------------------------------------------
+
+##  Screenshots
+
+<p float="left">
+  <img src="ScreenShots/s1.png" width="200" />
+  <img src="ScreenShots/s2.png" width="200" />
+  <img src="ScreenShots/s3.png" width="200" />
+  <img src="ScreenShots/s4.png" width="200" />
+</p>
+
+
+------------------------------------------------------------------------

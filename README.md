@@ -38,8 +38,8 @@ Place your screenshots inside a folder named **ScreenShots** and
 reference them like:
 
 ``` md
-![Home Screen](./ScreenShots/Simulator Screenshot - iPhone 14 - 2025-11-26 at 13.41.14.png)
-![Detail Screen](./ScreenShots/detail.png)
+![Home Screen](./ScreenShots/s1.png)
+![Detail Screen](./ScreenShots/s2.png)
 ```
 
 ------------------------------------------------------------------------

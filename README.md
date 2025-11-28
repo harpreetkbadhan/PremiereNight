@@ -82,12 +82,8 @@ npm start
 ------------------------------------------------------------------------
 ## Demo GIF
 
-You can add a GIF preview of the app by placing a file (e.g.,
-`demo.gif`) inside the project and referencing it:
-
-
 <p float="left">
-  <img src="ScreenShots/Premiere.gif" width="200" />
+  <img src="ScreenShots/Premiere.gif" width="300" />
   </p>
 
 ------------------------------------------------------------------------
